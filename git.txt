@@ -1,0 +1,29 @@
+1) yum install git
+2) create repository in Github
+git clone https://github.com/papigit/julyrepo.git
+2) mkdir /etc/gitlab
+4) chmod 777 
+5) git clone 
+git status
+touch file1
+git count-objects
+git status
+git remote
+git config --listgit 
+
+git remote add naresh  https://github.com/papigit/julyrepo.git
+git branch
+git pull naresh master
+git push naresh master
+
+ps -ef | grep java
+
+ls -ltrh jenk*
+
+rpm -ivh 
+
+https://github.com/papigit/myrepo.git
+
+
+mvn compile
+mvn package
